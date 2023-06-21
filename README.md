@@ -13,7 +13,7 @@ This is my second fully functioning web game.
 -The points are added up to the total score that will be displayed in the score board. 
  The score board will show all the scores of all the players who played the game previously ()upload from local storage).
 
-- the game has a timer. If the count down will be done, the game ends.
+- The game has a timer. If the countdown will be done, the game ends.
 
 //  ARCHITECTURE  //
 
