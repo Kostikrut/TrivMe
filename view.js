@@ -209,7 +209,7 @@ class AppView {
   #generateStarMarkup() {
     return `
     <section class="start-section">
-    <img class="logo-img" src="./imgs/trivme.png" alt="app logo" />
+    <img class="logo-img" src="./trivme.png" alt="app logo" />
 
         <div class="difficulty-select">
           <span><b>Select Difficulty:</b></span>
